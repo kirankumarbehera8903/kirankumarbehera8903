@@ -5,7 +5,6 @@
 - ✉️ How to reach me kirankumarbehera8903@gmail.com
 🧠 My Skill is HTML CSS BOOTSTRAP ASP.NET C# VB.NET MySQL 
 
-<!---
-kirankumarbehera8903/kirankumarbehera8903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodeburst.io%2F25-html-css-tutorials-6a864f387185&psig=AOvVaw2ixI2rCZ-idOVaiWNT-Ss9&ust=1709645747560000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDq9-vc2oQDFQAAAAAdAAAAABAJ
+
