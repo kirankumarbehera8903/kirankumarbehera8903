@@ -1,10 +1,9 @@
 - 👋 Hi, I’m KIRAN KUMAR BEHERA 
 - 👀 I’m interested in DEVELOPING 
 - 🌱 I’m currently learning JAVA PHP JAVASCRIPT 
-- 💞️ I’m looking to collaborate on MNC COMPANY 
-- 📫 How to reach me CONTACT ME
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I Love To Code / Solve Coding Problems* 
+- 📫 How to reach me kirankumarbehera8903@gmail.com
+- ⚡ My Skill is HTML CSS BOOTSTRAP ASP.NET
 
 <!---
 kirankumarbehera8903/kirankumarbehera8903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
