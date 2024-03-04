@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA PHP JAVASCRIPT C
 - 💞️ I Love To Code / Solve Coding Problems* 
 - ✉️ How to reach me kirankumarbehera8903@gmail.com
-🧠 My Skill is HTML CSS BOOTSTRAP ASP.NET C# VB.NET MySQL 
+- 🧠 My Skill is HTML CSS BOOTSTRAP ASP.NET C# VB.NET MySQL 
 
 
 
