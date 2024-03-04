@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA PHP JAVASCRIPT 
 - 💞️ I Love To Code / Solve Coding Problems* 
 - 📫 How to reach me kirankumarbehera8903@gmail.com
-- ⚡ My Skill is HTML CSS BOOTSTRAP ASP.NET
+- ⚡ My Skill is HTML CSS BOOTSTRAP ASP.NET C# VB.NET MySQL 
 
 <!---
 kirankumarbehera8903/kirankumarbehera8903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
