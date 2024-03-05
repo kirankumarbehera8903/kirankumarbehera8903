@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Bootstrap Java PHP C**
 
-- 👨‍💻 All of my projects are available at [kangamovies.netlify.app](kangamovies.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="https://kangamovies.netlify.app/" target="_blank">Clone</a>
 
 - 💬 Ask me about **Java PHP**
 
