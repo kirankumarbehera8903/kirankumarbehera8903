@@ -1,4 +1,4 @@
-![logo](https://github.com/kirankumarbehera8903/kirankumarbehera8903/blob/main/banner.png)
+![logo](https://github.com/kirankumarbehera8903/kirankumarbehera8903/blob/main/banner2.png)
 
 <h1 align="center">Hi 👋, I'm Kiran Kumar Behera</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
