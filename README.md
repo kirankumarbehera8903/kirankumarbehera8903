@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Bootstrap Java PHP C**
+- 🌱 I’m currently learning ** Java PHP C Data Structure **
 
 - 👨‍💻 All of my projects are available at <a href="https://portfolio-kirankumar.netlify.app/#" target="_blank">Portfolio </a>
 
