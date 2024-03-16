@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiran&show_icons=true&locale=en&layout=compact" alt="kiran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiran&show_icons=true&locale=en" alt="kiran" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KiranKumarBehera&show_icons=true&locale=en" alt="kiran" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiran&" alt="kiran" /></p>
 <h3 align="left">Hosting :</h3>
