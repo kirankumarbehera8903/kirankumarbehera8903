@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning ** Java PHP C Data Structure **
 
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-kirankumar.netlify.app/#" target="_blank" style="text-decoration: none;  font-weight: 900;"><b>Portfolio</b></a>
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-kirankumar.netlify.app" target="_blank" style="text-decoration: none;"><b>Portfolio</b></a>
 
 - 💬 Ask me about **Java PHP**
 
